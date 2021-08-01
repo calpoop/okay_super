@@ -10,7 +10,7 @@ The directory structure should be:
 - song_name
     - projects
         - project file type (cubase, audacity, etc.)
-            - project files (e.g. "words.au" as an Audacity file for Words)
+            - project files/directories (e.g. "words.au" as an Audacity file for Words, along with other necessary files for the project to be workable)
     - mixdowns
         - song file output (.wav, .mp3, etc.)
 
