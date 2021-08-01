@@ -36,4 +36,4 @@ This way, different versions of the same song can take on unique identities that
 
 - stick to the directory structure of the main branch, even in your own custom branches/forks
 
-- name each custom fork or branch without using your name (don't just call your branch the "gene" or the "calvin" branch. Come up with another variant of Okay, Super! like the "okay_looper" branch, for example
+- name each custom fork or branch without using your name (don't just call your branch the "gene" or the "calvin" branch. Come up with another variant of Okay, Super! like the "okay_looper" branch, for example)
