@@ -11,8 +11,8 @@ The directory structure should be:
     - projects
         - project file type (cubase, audacity, etc.)
             - project files (e.g. "words.au" as an Audacity file for Words)
-        - mixdowns
-            - song file output (.wav, .mp3, etc.)
+    - mixdowns
+        - song file output (.wav, .mp3, etc.)
 
 
 If, for whatever reason you wish to make a change or addition to any file in this repository that
