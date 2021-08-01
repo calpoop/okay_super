@@ -26,3 +26,14 @@ directly partake in any of them.
 
 Note that anything you add into this repository could be used in any side project variant of Okay, Super!
 Still, remember that any updates to the officially named "Okay, Super!" must be UNANIMOUSLY approved.
+
+
+
+## Recommendations
+
+- Instead of adding version numbers to a song, try to use a different name (like going from Dr. Pepper to Picket Fences).
+This way, different versions of the same song can take on unique identities that don't entirely replace each other.
+
+- stick to the directory structure of the main branch, even in your own custom branches/forks
+
+- name each custom fork or branch without using your name (don't just call your branch the "gene" or the "calvin" branch. Come up with another variant of Okay, Super! like the "okay_looper" branch, for example
